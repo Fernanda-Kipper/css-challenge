@@ -28,7 +28,9 @@ Mexa apenas no arquivo `index.css`
 ## Terminei, e agora?
 
 Me envia a sua solução no meu instagram **@kipperdev**
+
 Eu vou compartilhar a solução nos stories de todos que conseguirem resolver o desafio :)
+
 E se você quiser, compartilherei seu GitHub também
 
 #BoraCodar🚀
