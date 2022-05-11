@@ -56,7 +56,11 @@ button {
 }
 
 @media (max-width: 1280px){
-  /*todo*/
+  .cards-container .card:nth-last-child(2):nth-child(3n) + .card, 
+  .cards-container .card:nth-last-child(2):nth-child(3n+1) +  .card,
+  .cards-container .card:nth-last-child(2):nth-child(3n+1) {
+    display: none;
+  }
 }
 
 @media (max-width: 910px){
@@ -64,5 +68,9 @@ button {
     gap: 24px;
   }
 
-  /*todo*/
+  .cards-container .card:nth-last-child(2):nth-child(3n) + .card, 
+  .cards-container .card:nth-last-child(2):nth-child(3n+1) +  .card,
+  .cards-container .card:nth-last-child(2):nth-child(3n+1) {
+    display: block;
+  }
 }
