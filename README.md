@@ -25,12 +25,12 @@ npm start
 
 Mexa apenas no arquivo `index.css`
 
+> Lembre-se! Não há apenas um jeito de resolver
+
 ## Terminei, e agora?
 
-Me envia a sua solução no meu instagram **@kipperdev**
-
-Eu vou compartilhar a solução nos stories de todos que conseguirem resolver o desafio :)
-
-E se você quiser, compartilherei seu GitHub também
+- Acesse a branch **feat/solution** para visualizar a minha solução caso tenha curiosidade
+- Me envia a sua solução no meu instagram **@kipperdev**
+  - Podemos discutir sobre as abordagens, ou até testar ambas soluções em busca de bugs ;)
 
 #BoraCodar🚀
