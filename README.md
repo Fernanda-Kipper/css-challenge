@@ -7,7 +7,7 @@ seja mostrada as linhas completas, ou seja, que possuam 3 cards. Os cards que fi
 
 > Se tiver dúvidas 
 - Veja como ficou o resultado final nos meus stories
-- Me chama na DM que posso ajudar! **@kipperdev**
+- Me chama na DM que posso ajudar! **[@kipper.dev](https://www.instagram.com/kipper.dev/)**
 
 ## Por onde começo? 💻
 
